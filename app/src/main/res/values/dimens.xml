@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_top_git">200dp</dimen>
+    <dimen name="padding_top_main">50dp</dimen>
+</resources>
